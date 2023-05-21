@@ -4,6 +4,7 @@
 
 ```
 Tiago
+Vânia
 Gleici
 Thais
 Felipe SImplicio.
