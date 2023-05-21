@@ -6,5 +6,5 @@
 Tiago
 Gleici
 Thais
-Felipe SImplicio
+Felipe SImplicio.
 ``` 
